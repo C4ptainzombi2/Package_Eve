@@ -1,0 +1,23 @@
+{
+  "name": "Eve",
+  "menus": [
+    {
+      "name_menu_fr": "Eve",
+      "name_menu_en": "Eve",
+      "icon_menu": "fa-solid fa-shuttle-space",
+      "url_menu": "eve/manage"
+    }
+  ],
+  "description": [
+    {
+      "fr": "Gérer ...",
+      "en": "Manage ..."
+    }
+  ],
+
+  "version": "0.0.1",
+  "author": "Remi",
+
+  "isGame": false,
+  "isCore": false
+}
