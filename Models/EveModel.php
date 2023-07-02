@@ -31,11 +31,6 @@ class EveModel extends AbstractModel
         if (!$row) {
             return null;
         }
-
-
-
-        
-
         $settings = new EveEntity(
             $row['eve_settings_id'],
             $row['eve_settings_key'],
